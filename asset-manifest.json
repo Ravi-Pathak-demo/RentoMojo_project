@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RentoMojo_project/static/css/main.750468d2.css",
+    "main.js": "/RentoMojo_project/static/js/main.19f5e3d7.js",
+    "static/js/787.8488ec55.chunk.js": "/RentoMojo_project/static/js/787.8488ec55.chunk.js",
+    "index.html": "/RentoMojo_project/index.html",
+    "main.750468d2.css.map": "/RentoMojo_project/static/css/main.750468d2.css.map",
+    "main.19f5e3d7.js.map": "/RentoMojo_project/static/js/main.19f5e3d7.js.map",
+    "787.8488ec55.chunk.js.map": "/RentoMojo_project/static/js/787.8488ec55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750468d2.css",
+    "static/js/main.19f5e3d7.js"
+  ]
+}
